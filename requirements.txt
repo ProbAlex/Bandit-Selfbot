@@ -1,0 +1,9 @@
+cryptography
+typing
+pywin32
+aiosqlite
+requests
+aiohttp
+discord.py-self==1.9.2
+blockgamebot
+openai
